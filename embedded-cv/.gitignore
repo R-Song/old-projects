@@ -1,0 +1,5 @@
+src/db/
+src/greybox_tmp/
+src/output_files/
+*.bak
+*.qws

@@ -1,0 +1,4 @@
+# Ignore build files for gr-utat
+gr-utat/build/
+# Ignore log files
+logs/
